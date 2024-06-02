@@ -3,7 +3,7 @@ A função deste portfólio é demonstrar as competências de como faço a abert
 
 Site utilizado para desenvolvimento do Plano [SwagLabs](https://www.saucedemo.com/v1/)
 
-![Home_SwagLabs](/img\home_swaglabs.png)
+![Home_SwagLabs](/img/home_swaglabs.png)
 
 
 - Excell para a criação do Plano de teste
@@ -14,7 +14,7 @@ Site utilizado para desenvolvimento do Plano [SwagLabs](https://www.saucedemo.co
 
 Na aba Introdução da planilha irá conter todas as informações básicas do projeto.
 
-![Imagem apresentacao do plano](img\ref_introducao.png)
+![Imagem apresentacao do plano](img/ref_introducao.png)
 
 ## Apresentação do Escopo
 
@@ -46,7 +46,7 @@ Na aba suite_login tem como objetivo validar a funcionalidade login, como o crit
 
 Nesta Suite de tres (3) testes, todos passaram sem problemas algum.
 
-![Imagem apresentacao da Suite - Tela de Login](img\ref_suite_login.png)
+![Imagem apresentacao da Suite - Tela de Login](img/ref_suite_login.png)
 
 ## Apresentação da Suite - Validar Menu
 
@@ -54,7 +54,7 @@ Na aba Suite validar_menu tem como objetivo validar a funcionalidade do menu do 
 
 Nesta Suite tivemos de seis (6) testes, dois (2) Defeitos foram abertos sendo eles (CT 01 - 001) e (CT 03 - 002). Sendo colocado o ID na planilha Controle de Bugs registrando o que ocorreu e estão na pasta de evidências.
 
-![Imagem apresentacao da Suite - Validar Menu](img\ref_suite_validar_menu.png)
+![Imagem apresentacao da Suite - Validar Menu](img/ref_suite_validar_menu.png)
 
 ## Apresentação da Suite - Adicionar Itens
 
@@ -62,7 +62,7 @@ Na aba Suite adicionar_itens tem como objetivo validar a funcionalidade de adici
 
 Nesta Suite tivemos de quatro (4) testes, dois (2) Defeitos foram abertos sendo eles (CT 01 - 003) e (CT 02 - 004). Sendo colocado o ID na planilha de controle de bugs registrando o que ocorreu e estão na pasta de evidências.
 
-![Imagem apresentacao da Suite - Adicionar Itens](img\ref_suite_adicionar_itens.png)
+![Imagem apresentacao da Suite - Adicionar Itens](img/ref_suite_adicionar_itens.png)
 
 ## Apresentação da Suite - Remover Itens
 
@@ -70,7 +70,7 @@ Na aba Suite remover_itens tem como objetivo validar a funcionalidade de remover
 
 Nesta Suite tivemos de quatro (4) testes, dois (2) Defeitos foram abertos sendo eles (CT 01 - 006) e (CT 03 - 007). Sendo colocado o ID na planilha de controle de bugs registrando o que ocorreu e estão na pasta de evidências.
 
-![Imagem apresentacao da Suite - Remover Itens](img\ref_suite_remover_itens.png)
+![Imagem apresentacao da Suite - Remover Itens](img/ref_suite_remover_itens.png)
 
 ## Apresentação da Suite - Filtrar Itens
 
@@ -78,7 +78,7 @@ Na aba Suite filtrar_itens tem como objetivo validar a funcionalidade de filtrar
 
 Nesta Suite de um (1) testes, todos passaram sem problemas algum.
 
-![Imagem apresentacao da Suite - Remover Itens](img\ref_suite_filtrar-itens.png)
+![Imagem apresentacao da Suite - Remover Itens](img/ref_suite_filtrar-itens.png)
 
 ## Apresentação dos Macros
 
@@ -90,6 +90,6 @@ Na aba Macros esta todas as regras e configuracoes da planilha ex:
 - Meios de teste
 - Status com emojis
 
-![Imagem apresentacao dos Macros](img\ref_macros.png)
+![Imagem apresentacao dos Macros](img/ref_macros.png)
 
 Lembrando que esta planilha foi disponiblizado pela Priscila de Araujo Caimim, professora da plataforma Qualiters Club. Plataforma de onde estudo.
