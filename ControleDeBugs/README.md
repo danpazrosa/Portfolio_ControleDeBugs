@@ -6,7 +6,7 @@ A função deste portfólio é demonstrar as competências em como eu faço a ab
 
 Levantamento de defeitos conforme [Plano de Teste](https://onedrive.live.com/edit.aspx?resid=ea833b46605cd9b9!s7efb321a-4950-4c14-89d6-434c4048db2e&cid=ea833b46605cd9b9&login_hint=danirosapaes12%40gmail.com&ct=1717157240731&wdOrigin=OFFICECOM-WEB.START.UPLOAD&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=216d99ea-6884-4873-87f7-5983970e7a17)
 
-![Planilha Plano de Teste](img\ref_ferramentas.png)
+![Planilha Plano de Teste](img/ref_ferramentas.png)
 
 -Excell utilizado para gerenciamento das planilhas.
 
@@ -22,7 +22,7 @@ Na aba Introdução da planilha irá conter todas as informações básicas do p
 
 Na aba Controle de Bugs, contém todos os defeitos registrados, assim como sua descrição, story, versão do software testado, prioridade, severidade, time responsável e indicador de status. Sendo eles:
 
-![Imagem apresentacao do plano](img\ref_controleDeBugs.png)
+![Imagem apresentacao do plano](img/ref_controleDeBugs.png)
 
 - Defeito: Um título breve e claro do defeito aberto.
 
@@ -48,6 +48,6 @@ Na aba Macros esta todas as regras e configuracoes da planilha ex:
 - Meios de teste
 - Status com emojis
 
-![Imagem apresentacao dos Macros](img\ref_macros.png)
+![Imagem apresentacao dos Macros](img/ref_macros.png)
 
 Esta planilha foi disponiblizado pela Priscila de Araujo Caimim, professora da plataforma Qualiters Club. Plataforma de onde estudo.
