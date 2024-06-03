@@ -1,4 +1,4 @@
-# Projeto SwagLabs
+# Planilha Plano de Teste
 A função deste portfólio é demonstrar as competências de como faço a abertura e gestão de bugs. Este plano de teste foi criado pela Priscila de Araujo Caimi. Fundadora e professora da plataforma Qualiters Club. Fiz apenas alguns ajustes aqui e ali para ficar do meu jeitinho. 
 
 Site utilizado para desenvolvimento do Plano [SwagLabs](https://www.saucedemo.com/v1/)
@@ -28,7 +28,7 @@ Antes de tudo, em todas as Suites têm as mesmas funcionalidades, então para n�
 
 - ID: Cada id representa um caso de teste, que iremos tratar nesse portfolio como CT e respectivamente o número deste caso de teste.
 
-- Critérios de Aceite: São as condições que o teste deve cumprir para passar,
+- Critérios de Aceite: São as condições escritas em Gherking que o teste deve cumprir para passar,
 
 - Prioridade: A prioridade determina a ordem de correção de um defeito, ou seja, quão urgente é resolver o problema.
 

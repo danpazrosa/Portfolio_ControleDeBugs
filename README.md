@@ -12,7 +12,6 @@ SwagLabs é um site frequentemente utilizado por QA's para testar, demonstrar, u
 ## Neste portfólio, você irá encontrar duas (2) planilhas, sendo:
 
 - Plano de Teste SwagLabs
-<br>
 - Controle de Bugs SwagLabs
 
 ## Portfólio Plano de Teste
